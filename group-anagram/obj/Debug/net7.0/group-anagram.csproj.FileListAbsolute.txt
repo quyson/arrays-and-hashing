@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\bin\Debug\net7.0\group-anagram.exe
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\bin\Debug\net7.0\group-anagram.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\bin\Debug\net7.0\group-anagram.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\bin\Debug\net7.0\group-anagram.dll
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\bin\Debug\net7.0\group-anagram.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.dll
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\refint\group-anagram.dll
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\group-anagram.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\group-anagram\obj\Debug\net7.0\ref\group-anagram.dll
