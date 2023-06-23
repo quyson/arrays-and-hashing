@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\bin\Debug\net7.0\topKFrequent.exe
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\bin\Debug\net7.0\topKFrequent.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\bin\Debug\net7.0\topKFrequent.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\bin\Debug\net7.0\topKFrequent.dll
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\bin\Debug\net7.0\topKFrequent.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.dll
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\refint\topKFrequent.dll
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\topKFrequent.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\arrays-and-hashing\topKFrequent\obj\Debug\net7.0\ref\topKFrequent.dll

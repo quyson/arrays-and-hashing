@@ -1,3 +1,4 @@
+﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +9,10 @@ namespace topKFrequent
     {
         static void Main(string[] args)
         {
-            int[] number = {1,1,1,2,3,5};
-            int target = 1;
-            Console.WriteLine(getSolution(number, target));
+            int[] number = {1,1,1,2,2,2,2,3,3,5};
+            int target = 3;
+            int[] answer = getSolution(number, target);
+            Console.WriteLine(answer);
         }
         static int[] getSolution(int[] array, int target)
         {
@@ -29,8 +31,10 @@ namespace topKFrequent
                 result.Add(foundKey);
                 d.Remove(foundKey);
             }
+            
             return result.ToArray();
         }
     }
 }
+
 
