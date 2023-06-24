@@ -8,14 +8,9 @@ const getSolution = (array) => {
         }
     }
     let counter = 1
-    for(let j = result.length - 1; j > 0; j--){
-        if(j < result.length - 1){
-            result[j - 1] = result[j - 1] * array[j] * counter
-            counter = counter * array[j]
-        } else {
-            result[j - 1] = result[j - 1] * array[j]
-            counter = counter * array[j];
-        }
+    for(let j = result.length - 2; j > 0; j--){
+        counter = counter * array[j+1]
+        result[j] = result[j] * counter;
     }
     return result;
 };
